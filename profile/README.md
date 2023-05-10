@@ -10,7 +10,8 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 ## Architecture
 
-![architecture](assets/architecture.svg)
+<img src="assets/architecture.svg" onerror="this.onerror=null; this.src='https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg'" alt="architecture">
+
 
 ## Assets
 
