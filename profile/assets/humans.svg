@@ -1,28 +1,28 @@
-<svg width="580" height="580" viewBox="0 0 580 580" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="100" height="100" fill="url(#pattern0)"/>
-<rect x="120" width="100" height="100" fill="url(#pattern1)"/>
-<rect x="240" width="100" height="100" fill="url(#pattern2)"/>
-<rect x="360" width="100" height="100" fill="url(#pattern3)"/>
+<svg width="820" height="460" viewBox="0 0 820 460" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect y="360" width="100" height="100" fill="url(#pattern0)"/>
+<rect x="240" y="240" width="100" height="100" fill="url(#pattern1)"/>
+<rect width="100" height="100" fill="url(#pattern2)"/>
+<rect x="120" width="100" height="100" fill="url(#pattern3)"/>
 <rect x="480" width="100" height="100" fill="url(#pattern4)"/>
-<rect y="120" width="100" height="100" fill="url(#pattern5)"/>
-<rect x="120" y="120" width="100" height="100" fill="url(#pattern6)"/>
-<rect x="240" y="120" width="100" height="100" fill="url(#pattern7)"/>
-<rect x="360" y="120" width="100" height="100" fill="url(#pattern8)"/>
-<rect x="480" y="120" width="100" height="100" fill="url(#pattern9)"/>
+<rect x="360" width="100" height="100" fill="url(#pattern5)"/>
+<rect x="240" width="100" height="100" fill="url(#pattern6)"/>
+<rect x="600" width="100" height="100" fill="url(#pattern7)"/>
+<rect x="600" y="240" width="100" height="100" fill="url(#pattern8)"/>
+<rect x="720" y="120" width="100" height="100" fill="url(#pattern9)"/>
 <rect y="240" width="100" height="100" fill="url(#pattern10)"/>
 <rect x="120" y="240" width="100" height="100" fill="url(#pattern11)"/>
-<rect x="240" y="240" width="100" height="100" fill="url(#pattern12)"/>
+<rect y="120" width="100" height="100" fill="url(#pattern12)"/>
 <rect x="360" y="240" width="100" height="100" fill="url(#pattern13)"/>
 <rect x="480" y="240" width="100" height="100" fill="url(#pattern14)"/>
-<rect y="360" width="100" height="100" fill="url(#pattern15)"/>
+<rect x="600" y="120" width="100" height="100" fill="url(#pattern15)"/>
 <rect x="120" y="360" width="100" height="100" fill="url(#pattern16)"/>
 <rect x="240" y="360" width="100" height="100" fill="url(#pattern17)"/>
-<rect x="360" y="360" width="100" height="100" fill="url(#pattern18)"/>
-<rect x="480" y="360" width="100" height="100" fill="url(#pattern19)"/>
-<rect y="480" width="100" height="100" fill="url(#pattern20)"/>
-<rect x="120" y="480" width="100" height="100" fill="url(#pattern21)"/>
-<rect x="240" y="480" width="100" height="100" fill="url(#pattern22)"/>
-<rect x="360" y="480" width="100" height="100" fill="url(#pattern23)"/>
+<rect x="120" y="120" width="100" height="100" fill="url(#pattern18)"/>
+<rect x="720" width="100" height="100" fill="url(#pattern19)"/>
+<rect x="720" y="240" width="100" height="100" fill="url(#pattern20)"/>
+<rect x="240" y="120" width="100" height="100" fill="url(#pattern21)"/>
+<rect x="360" y="120" width="100" height="100" fill="url(#pattern22)"/>
+<rect x="480" y="120" width="100" height="100" fill="url(#pattern23)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_504_336" transform="scale(0.00195312)"/>
