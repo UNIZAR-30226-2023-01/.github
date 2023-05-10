@@ -10,7 +10,7 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 ## Architecture
 
-[![architecture](assets/architecture.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)
+[![architecture](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)
 
 ## Assets
 
@@ -18,12 +18,12 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 #### Memojis
 
-[![memojis](assets/memojis.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)
+[![memojis](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)
 
 #### Animals
 
-[![animals](assets/animals.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)
+[![animals](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)
 
 #### Humans
 
-[![humans](assets/humans.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)
+[![humans](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)
