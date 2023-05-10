@@ -7,3 +7,23 @@ Our project is being developed as part of our software project class, and we are
 In this organization you will find our code repositories, project documentation, and issue tracker. We encourage you to explore our work and give us feedback on our progress. If you are interested in contributing to our project, please do not hesitate to contact us.
 
 Thank you for your interest in our project and we look forward to sharing our progress with you.
+
+## Architecture
+
+![architecture](../assets/architecture.svg)
+
+## Assets
+
+### Avatars
+
+#### Memojis
+
+![architecture](../assets/memojis.svg)
+
+#### Animals
+
+![architecture](../assets/animals.svg)
+
+#### Humans
+
+![architecture](../assets/humans.svg)
