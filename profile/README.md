@@ -10,7 +10,7 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 ## Architecture
 
-![architecture](../assets/architecture.svg)
+![architecture](assets/architecture.svg)
 
 ## Assets
 
@@ -18,12 +18,12 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 #### Memojis
 
-![architecture](../assets/memojis.svg)
+![architecture](assets/memojis.svg)
 
 #### Animals
 
-![architecture](../assets/animals.svg)
+![architecture](assets/animals.svg)
 
 #### Humans
 
-![architecture](../assets/humans.svg)
+![architecture](assets/humans.svg)
