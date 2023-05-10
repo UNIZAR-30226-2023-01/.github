@@ -10,8 +10,7 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 ## Architecture
 
-<img src="assets/architecture.svg" onerror="this.onerror=null; this.src='https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg'" alt="architecture">
-
+[![architecture](assets/architecture.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)
 
 ## Assets
 
@@ -19,12 +18,12 @@ Thank you for your interest in our project and we look forward to sharing our pr
 
 #### Memojis
 
-![architecture](assets/memojis.svg)
+[![memojis](assets/memojis.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)
 
 #### Animals
 
-![architecture](assets/animals.svg)
+[![animals](assets/animals.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)
 
 #### Humans
 
-![architecture](assets/humans.svg)
+[![humans](assets/humans.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)
