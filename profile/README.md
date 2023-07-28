@@ -11,19 +11,3 @@ Thank you for your interest in our project and we look forward to sharing our pr
 ## Architecture
 
 [![architecture](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/architecture.svg)
-
-## Assets
-
-### Avatars
-
-#### Memojis
-
-[![memojis](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/memojis.svg)
-
-#### Animals
-
-[![animals](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/animals.svg)
-
-#### Humans
-
-[![humans](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)](https://github.com/UNIZAR-30226-2023-01/.github/blob/main/profile/assets/humans.svg)
